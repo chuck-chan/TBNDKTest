@@ -11,8 +11,7 @@ add_library( # Sets the name of the library.
              SHARED
 
              # Provides a relative path to your source file(s).
-             two-lib.cpp
-             TbMsg.cpp )
+             two-lib.cpp )
 
 add_library( # Sets the name of the library.
              msg-two-lib
